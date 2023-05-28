@@ -1,4 +1,4 @@
-var row=3;
+var row=1;
 function insert_Row() {
     //Write your code here
   var tr = document.createElement("tr");
